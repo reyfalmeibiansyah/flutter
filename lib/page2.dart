@@ -136,7 +136,7 @@ class Page2 extends StatelessWidget {
                               SizedBox(height: 8),
                               Text('CSS', style: TextStyle(fontSize: 16)),
                               SizedBox(height: 8),
-                              Text('LARAVEL', style: TextStyle(fontSize: 16)),
+                              Text('C++', style: TextStyle(fontSize: 16)),
                             ],
                           ),
                         ),
